@@ -9,3 +9,6 @@
   tasks:
     - name: "quote {{ my_test_string }}"
       debug: msg="echo {{ my_test_string | quote}}"
+      
+   cbhfvgbvhjvbhfbvhvb
+   vfjbvhjbvejvbk
